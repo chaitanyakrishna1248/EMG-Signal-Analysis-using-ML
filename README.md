@@ -1,4 +1,5 @@
 # EMG-SIGNAL-ANALYSIS
+This project was done under the guidance of our Signal Processing and Analysis professor and my teammates Ketan Akul Ramaneti, Shwetank Mamidwar
 
 # DATASET DESCRIPTION:
 The data of the emg signal was obtained from the website- http://zju-capg.org/myo/data/ and preprocessed. The rms value of the EMG data from multiple channels were taken and split into train-test data. The classification dataset which classifies movement with 1 and rest position with 0 was split into train-test data set according to the EMG signal values.
